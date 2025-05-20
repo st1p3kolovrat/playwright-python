@@ -31,6 +31,5 @@ pytest
 
 ### **Example Of Test Results:**
 
-
-![playwright_tests.png](..%2F..%2F..%2F..%2FDesktop%2Fplaywright_tests.png)
+![playwright_tests.png](playwright_tests.png)
 Note: Tests are run in headless mode
